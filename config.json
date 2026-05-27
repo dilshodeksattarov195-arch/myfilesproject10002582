@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authvetch",
+        "uuid": 24967940,
+        "checksum": "l152pq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
